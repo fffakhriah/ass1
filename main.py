@@ -18,7 +18,6 @@ def read_csv_to_dict(file_path):
 
 # Path to the CSV file
 file_path = r"C:\Users\User\Desktop\COMPUTER EVOLUTION\program_ratings.csv"
-"
 
 # Get the data in the required format
 program_ratings_dict = read_csv_to_dict(file_path)
